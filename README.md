@@ -7,7 +7,7 @@ PrepPC Electron Setup est une application Electron permettant de faciliter l'ins
 2. Clonez ce dépôt Git :
 
 ```bash
-git clone https://github.com/VotreUtilisateur/PrepPC.git
+git clone https://github.com/HayZun/PrepPC.git
 ``` 
 3. Accédez au répertoire du projet :
 
